@@ -1,0 +1,22 @@
+@import "~react-vis/dist/style";
+
+.legend-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  width: 700px;
+}
+
+.legend {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+.legend .legend-title {
+  font-weight: bold;
+}
+
+.legend .legend-subtitle {
+  font-size: 12px;
+}

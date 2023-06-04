@@ -1,0 +1,68 @@
+C:\Proyects\Personal Data\Proyecto Tatiana\App\TatianaApp\TatianaApp\TatianaApp\bin\Debug\netstandard2.0\TatianaApp.deps.json
+C:\Proyects\Personal Data\Proyecto Tatiana\App\TatianaApp\TatianaApp\TatianaApp\bin\Debug\netstandard2.0\TatianaApp.dll
+C:\Proyects\Personal Data\Proyecto Tatiana\App\TatianaApp\TatianaApp\TatianaApp\bin\Debug\netstandard2.0\TatianaApp.pdb
+C:\Proyects\Personal Data\Proyecto Tatiana\App\TatianaApp\TatianaApp\TatianaApp\obj\Debug\netstandard2.0\TatianaApp.csproj.AssemblyReference.cache
+C:\Proyects\Personal Data\Proyecto Tatiana\App\TatianaApp\TatianaApp\TatianaApp\obj\Debug\netstandard2.0\TatianaApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyects\Personal Data\Proyecto Tatiana\App\TatianaApp\TatianaApp\TatianaApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Proyects\Personal Data\Proyecto Tatiana\App\TatianaApp\TatianaApp\TatianaApp\obj\Debug\netstandard2.0\AppShell.xaml.g.cs
+C:\Proyects\Personal Data\Proyecto Tatiana\App\TatianaApp\TatianaApp\TatianaApp\obj\Debug\netstandard2.0\Views\Metodo1Page.xaml.g.cs
+C:\Proyects\Personal Data\Proyecto Tatiana\App\TatianaApp\TatianaApp\TatianaApp\obj\Debug\netstandard2.0\Views\Metodo2Page.xaml.g.cs
+C:\Proyects\Personal Data\Proyecto Tatiana\App\TatianaApp\TatianaApp\TatianaApp\obj\Debug\netstandard2.0\TatianaApp.AssemblyInfoInputs.cache
+C:\Proyects\Personal Data\Proyecto Tatiana\App\TatianaApp\TatianaApp\TatianaApp\obj\Debug\netstandard2.0\TatianaApp.AssemblyInfo.cs
+C:\Proyects\Personal Data\Proyecto Tatiana\App\TatianaApp\TatianaApp\TatianaApp\obj\Debug\netstandard2.0\TatianaApp.csproj.CoreCompileInputs.cache
+C:\Proyects\Personal Data\Proyecto Tatiana\App\TatianaApp\TatianaApp\TatianaApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Proyects\Personal Data\Proyecto Tatiana\App\TatianaApp\TatianaApp\TatianaApp\obj\Debug\netstandard2.0\TatianaApp.dll
+C:\Proyects\Personal Data\Proyecto Tatiana\App\TatianaApp\TatianaApp\TatianaApp\obj\Debug\netstandard2.0\refint\TatianaApp.dll
+C:\Proyects\Personal Data\Proyecto Tatiana\App\TatianaApp\TatianaApp\TatianaApp\obj\Debug\netstandard2.0\TatianaApp.pdb
+C:\Proyects\Personal Data\Proyecto Tatiana\App\TatianaApp\TatianaApp\TatianaApp\obj\Debug\netstandard2.0\ref\TatianaApp.dll
+C:\Proyects\Personal Data\Proyecto Tatiana\TatianaApp\TatianaApp\TatianaApp\bin\Debug\netstandard2.0\TatianaApp.deps.json
+C:\Proyects\Personal Data\Proyecto Tatiana\TatianaApp\TatianaApp\TatianaApp\bin\Debug\netstandard2.0\TatianaApp.dll
+C:\Proyects\Personal Data\Proyecto Tatiana\TatianaApp\TatianaApp\TatianaApp\bin\Debug\netstandard2.0\TatianaApp.pdb
+C:\Proyects\Personal Data\Proyecto Tatiana\TatianaApp\TatianaApp\TatianaApp\obj\Debug\netstandard2.0\TatianaApp.csproj.AssemblyReference.cache
+C:\Proyects\Personal Data\Proyecto Tatiana\TatianaApp\TatianaApp\TatianaApp\obj\Debug\netstandard2.0\TatianaApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyects\Personal Data\Proyecto Tatiana\TatianaApp\TatianaApp\TatianaApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Proyects\Personal Data\Proyecto Tatiana\TatianaApp\TatianaApp\TatianaApp\obj\Debug\netstandard2.0\AppShell.xaml.g.cs
+C:\Proyects\Personal Data\Proyecto Tatiana\TatianaApp\TatianaApp\TatianaApp\obj\Debug\netstandard2.0\Views\Metodo1Page.xaml.g.cs
+C:\Proyects\Personal Data\Proyecto Tatiana\TatianaApp\TatianaApp\TatianaApp\obj\Debug\netstandard2.0\Views\Metodo2Page.xaml.g.cs
+C:\Proyects\Personal Data\Proyecto Tatiana\TatianaApp\TatianaApp\TatianaApp\obj\Debug\netstandard2.0\TatianaApp.AssemblyInfoInputs.cache
+C:\Proyects\Personal Data\Proyecto Tatiana\TatianaApp\TatianaApp\TatianaApp\obj\Debug\netstandard2.0\TatianaApp.AssemblyInfo.cs
+C:\Proyects\Personal Data\Proyecto Tatiana\TatianaApp\TatianaApp\TatianaApp\obj\Debug\netstandard2.0\TatianaApp.csproj.CoreCompileInputs.cache
+C:\Proyects\Personal Data\Proyecto Tatiana\TatianaApp\TatianaApp\TatianaApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Proyects\Personal Data\Proyecto Tatiana\TatianaApp\TatianaApp\TatianaApp\obj\Debug\netstandard2.0\TatianaApp.dll
+C:\Proyects\Personal Data\Proyecto Tatiana\TatianaApp\TatianaApp\TatianaApp\obj\Debug\netstandard2.0\refint\TatianaApp.dll
+C:\Proyects\Personal Data\Proyecto Tatiana\TatianaApp\TatianaApp\TatianaApp\obj\Debug\netstandard2.0\TatianaApp.pdb
+C:\Proyects\Personal Data\Proyecto Tatiana\TatianaApp\TatianaApp\TatianaApp\obj\Debug\netstandard2.0\ref\TatianaApp.dll
+D:\University\Tatiana\New folder\New folder\TatianaAPP-main\TatianaApp\TatianaApp\bin\Debug\netstandard2.0\TatianaApp.deps.json
+D:\University\Tatiana\New folder\New folder\TatianaAPP-main\TatianaApp\TatianaApp\bin\Debug\netstandard2.0\TatianaApp.dll
+D:\University\Tatiana\New folder\New folder\TatianaAPP-main\TatianaApp\TatianaApp\bin\Debug\netstandard2.0\TatianaApp.pdb
+D:\University\Tatiana\New folder\New folder\TatianaAPP-main\TatianaApp\TatianaApp\obj\Debug\netstandard2.0\TatianaApp.csproj.AssemblyReference.cache
+D:\University\Tatiana\New folder\New folder\TatianaAPP-main\TatianaApp\TatianaApp\obj\Debug\netstandard2.0\TatianaApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\University\Tatiana\New folder\New folder\TatianaAPP-main\TatianaApp\TatianaApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\University\Tatiana\New folder\New folder\TatianaAPP-main\TatianaApp\TatianaApp\obj\Debug\netstandard2.0\AppShell.xaml.g.cs
+D:\University\Tatiana\New folder\New folder\TatianaAPP-main\TatianaApp\TatianaApp\obj\Debug\netstandard2.0\Views\Metodo1Page.xaml.g.cs
+D:\University\Tatiana\New folder\New folder\TatianaAPP-main\TatianaApp\TatianaApp\obj\Debug\netstandard2.0\Views\Metodo2Page.xaml.g.cs
+D:\University\Tatiana\New folder\New folder\TatianaAPP-main\TatianaApp\TatianaApp\obj\Debug\netstandard2.0\TatianaApp.AssemblyInfoInputs.cache
+D:\University\Tatiana\New folder\New folder\TatianaAPP-main\TatianaApp\TatianaApp\obj\Debug\netstandard2.0\TatianaApp.AssemblyInfo.cs
+D:\University\Tatiana\New folder\New folder\TatianaAPP-main\TatianaApp\TatianaApp\obj\Debug\netstandard2.0\TatianaApp.csproj.CoreCompileInputs.cache
+D:\University\Tatiana\New folder\New folder\TatianaAPP-main\TatianaApp\TatianaApp\obj\Debug\netstandard2.0\XamlC.stamp
+D:\University\Tatiana\New folder\New folder\TatianaAPP-main\TatianaApp\TatianaApp\obj\Debug\netstandard2.0\TatianaApp.dll
+D:\University\Tatiana\New folder\New folder\TatianaAPP-main\TatianaApp\TatianaApp\obj\Debug\netstandard2.0\refint\TatianaApp.dll
+D:\University\Tatiana\New folder\New folder\TatianaAPP-main\TatianaApp\TatianaApp\obj\Debug\netstandard2.0\TatianaApp.pdb
+D:\University\Tatiana\New folder\New folder\TatianaAPP-main\TatianaApp\TatianaApp\obj\Debug\netstandard2.0\ref\TatianaApp.dll
+C:\Users\Tatiana\OneDrive\Documentos\Trabajo de Grado Final\TatianaApp\TatianaApp\bin\Debug\netstandard2.0\TatianaApp.deps.json
+C:\Users\Tatiana\OneDrive\Documentos\Trabajo de Grado Final\TatianaApp\TatianaApp\bin\Debug\netstandard2.0\TatianaApp.dll
+C:\Users\Tatiana\OneDrive\Documentos\Trabajo de Grado Final\TatianaApp\TatianaApp\bin\Debug\netstandard2.0\TatianaApp.pdb
+C:\Users\Tatiana\OneDrive\Documentos\Trabajo de Grado Final\TatianaApp\TatianaApp\obj\Debug\netstandard2.0\TatianaApp.csproj.AssemblyReference.cache
+C:\Users\Tatiana\OneDrive\Documentos\Trabajo de Grado Final\TatianaApp\TatianaApp\obj\Debug\netstandard2.0\TatianaApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tatiana\OneDrive\Documentos\Trabajo de Grado Final\TatianaApp\TatianaApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Tatiana\OneDrive\Documentos\Trabajo de Grado Final\TatianaApp\TatianaApp\obj\Debug\netstandard2.0\AppShell.xaml.g.cs
+C:\Users\Tatiana\OneDrive\Documentos\Trabajo de Grado Final\TatianaApp\TatianaApp\obj\Debug\netstandard2.0\Views\Metodo1Page.xaml.g.cs
+C:\Users\Tatiana\OneDrive\Documentos\Trabajo de Grado Final\TatianaApp\TatianaApp\obj\Debug\netstandard2.0\Views\Metodo2Page.xaml.g.cs
+C:\Users\Tatiana\OneDrive\Documentos\Trabajo de Grado Final\TatianaApp\TatianaApp\obj\Debug\netstandard2.0\TatianaApp.AssemblyInfoInputs.cache
+C:\Users\Tatiana\OneDrive\Documentos\Trabajo de Grado Final\TatianaApp\TatianaApp\obj\Debug\netstandard2.0\TatianaApp.AssemblyInfo.cs
+C:\Users\Tatiana\OneDrive\Documentos\Trabajo de Grado Final\TatianaApp\TatianaApp\obj\Debug\netstandard2.0\TatianaApp.csproj.CoreCompileInputs.cache
+C:\Users\Tatiana\OneDrive\Documentos\Trabajo de Grado Final\TatianaApp\TatianaApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Tatiana\OneDrive\Documentos\Trabajo de Grado Final\TatianaApp\TatianaApp\obj\Debug\netstandard2.0\TatianaApp.dll
+C:\Users\Tatiana\OneDrive\Documentos\Trabajo de Grado Final\TatianaApp\TatianaApp\obj\Debug\netstandard2.0\refint\TatianaApp.dll
+C:\Users\Tatiana\OneDrive\Documentos\Trabajo de Grado Final\TatianaApp\TatianaApp\obj\Debug\netstandard2.0\TatianaApp.pdb
+C:\Users\Tatiana\OneDrive\Documentos\Trabajo de Grado Final\TatianaApp\TatianaApp\obj\Debug\netstandard2.0\ref\TatianaApp.dll

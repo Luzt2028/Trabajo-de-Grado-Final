@@ -1,0 +1,117 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="TatianaApp.Views.Metodo1Page"
+             xmlns:vm="clr-namespace:TatianaApp.ViewModels"
+             Title="{Binding Title}">
+    
+    <ContentPage.BindingContext>
+        <vm:AboutViewModel />
+    </ContentPage.BindingContext>
+    
+    <ContentPage.Resources>
+        <ResourceDictionary>
+            <Color x:Key="Accent">#96d1ff</Color>
+        </ResourceDictionary>
+    </ContentPage.Resources>
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+
+        <!-- Encabezado -->
+        <StackLayout Orientation="Horizontal" Padding="10">
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*" />
+                    <ColumnDefinition Width="*" />
+                </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto" />
+                    <RowDefinition Height="Auto" />
+                    <RowDefinition Height="Auto" />
+                    <RowDefinition Height="Auto" />
+                    <RowDefinition Height="Auto" />
+                    <RowDefinition Height="Auto" />
+                </Grid.RowDefinitions>
+                <Label x:Name="label18" Grid.Row="0" Grid.Column="0" Text="Nombre de Placa o punto de armada (A)" VerticalOptions="Center" />
+                <Entry x:Name="entry7" Grid.Row="0" Grid.Column="1" Placeholder="Entry 1" />
+                <Label x:Name="label19" Grid.Row="1" Grid.Column="0" Text="Nombre de Placa o punto de armada (B)" VerticalOptions="Center" />
+                <Entry x:Name="entry8" Grid.Row="1" Grid.Column="1" Placeholder="Entry 2" />
+                <Label x:Name="label20" Grid.Row="2" Grid.Column="0" Text="Nombre de Placa o punto de armada (C)" VerticalOptions="Center" />
+                <Entry x:Name="entry9" Grid.Row="2" Grid.Column="1" Placeholder="Entry 3" />
+                <Label x:Name="label21" Grid.Row="3" Grid.Column="0" Text="Nombre de Placa o punto de armada (D)" VerticalOptions="Center" />
+                <Entry x:Name="entry10" Grid.Row="3" Grid.Column="1" Placeholder="Entry 4" />
+                <Button x:Name="showExtraEntriesButton" Grid.Row="4" Grid.Column="1" Text="Siguiente" Clicked="Button_Clicked" IsVisible="True"/>
+            </Grid>
+        </StackLayout>
+
+        <!-- Contenido desplazable -->
+        <ScrollView Grid.Row="1">
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*" />
+                </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto" />
+                    <RowDefinition Height="Auto" />
+                    <RowDefinition Height="Auto" />
+                    <RowDefinition Height="Auto" />
+                    <RowDefinition Height="Auto" />
+                    <RowDefinition Height="Auto" />
+                </Grid.RowDefinitions>
+                <!-- Los 6 Entry estarán inicialmente ocultos -->
+                <Entry x:Name="entry1" TextChanged="OnDecimalEntryTextChanged" Grid.Row="0" Grid.Column="0" IsVisible="False" />
+                <Entry x:Name="entry2" TextChanged="OnDecimalEntryTextChanged" Grid.Row="1" Grid.Column="0" IsVisible="False" />
+                <Entry x:Name="entry3" TextChanged="OnDecimalEntryTextChanged" Grid.Row="2" Grid.Column="0" IsVisible="False" />
+                <Entry x:Name="entry4" TextChanged="OnDecimalEntryTextChanged" Grid.Row="3" Grid.Column="0" IsVisible="False" />
+                <Entry x:Name="entry5" TextChanged="OnDecimalEntryTextChanged" Grid.Row="4" Grid.Column="0" IsVisible="False" />
+                <Entry x:Name="entry6" TextChanged="OnDecimalEntryTextChanged" Grid.Row="5" Grid.Column="0" IsVisible="False" />
+                <Entry x:Name="entry11" TextChanged="OnDecimalEntryTextChanged" Grid.Row="6" Grid.Column="0" Placeholder="Ángulo Alpha en grados" IsVisible="False" />
+                <Entry x:Name="entry12" TextChanged="OnDecimalEntryTextChanged" Grid.Row="7" Grid.Column="0" Placeholder="Ángulo Beta en grados" IsVisible="False" />
+                <Entry x:Name="entry13" TextChanged="OnDecimalEntryTextChanged" Grid.Row="8" Grid.Column="0" Placeholder="Ángulo Theta en grados" IsVisible="False" />
+                <Entry x:Name="entry14" TextChanged="OnDecimalEntryTextChanged" Grid.Row="9" Grid.Column="0" Placeholder="Ángulo Omega en grados" IsVisible="False" />
+                <Button x:Name="showLabelsResults" Grid.Row="10" Grid.Column="0"  Text="Siguiente" Clicked="showLabelsResults_Clicked" IsVisible="False"/>
+
+                <Label Text = "Distancia entre los puntos CB" Grid.Row="11" Grid.Column="0" VerticalOptions="Center" />
+                <Label Text = "Distancia enrtre los puntos CA" Grid.Row="12" Grid.Column="0" VerticalOptions="Center" />
+                <Label Text = "Distancia entre los puntos BA" Grid.Row="13" Grid.Column="0" VerticalOptions="Center" />
+                <Label Text = "Azimut ° CB" Grid.Row="14" Grid.Column="0" VerticalOptions="Center" />
+                <Label Text = "Azimut ° CA" Grid.Row="15" Grid.Column="0" VerticalOptions="Center" />
+                <Label Text = "Azimut ° BA" Grid.Row="16" Grid.Column="0" VerticalOptions="Center" />
+                <Label Text = "Angulo A en °" Grid.Row="17" Grid.Column="0" VerticalOptions="Center" />
+                <Label Text = "Angulo B en °" Grid.Row="18" Grid.Column="0" VerticalOptions="Center" />
+                <Label Text = "Angulo C en °" Grid.Row="19" Grid.Column="0" VerticalOptions="Center" />
+                <Label  Text = "Valor S °" Grid.Row="20" Grid.Column="0" VerticalOptions="Center" />
+                <Label  Text = "Valor Delta °" Grid.Row="21" Grid.Column="0" VerticalOptions="Center" />
+                <Label  Text = "Angulo X" Grid.Row="22" Grid.Column="0" VerticalOptions="Center" />
+                <Label  Text = "Angulo Y °" Grid.Row="23" Grid.Column="0" VerticalOptions="Center" />
+                <Label  Text = "Azimut °" Grid.Row="24" Grid.Column="0" VerticalOptions="Center" />
+                <Label  Text = "Distancia punto faltante" Grid.Row="25" Grid.Column="0" VerticalOptions="Center" />
+                <Label  Text = "Coordenada norte P" Grid.Row="26" Grid.Column="0" VerticalOptions="Center" />
+                <Label  Text = "Coordenada este P" Grid.Row="27" Grid.Column="0" VerticalOptions="Center" />
+
+                <Label x:Name="label1" Grid.Row="11" Grid.Column="1" VerticalOptions="Center" IsVisible="False"/>
+                <Label x:Name="label2" Grid.Row="12" Grid.Column="1" VerticalOptions="Center" IsVisible="False"/>
+                <Label x:Name="label3" Grid.Row="13" Grid.Column="1" VerticalOptions="Center" IsVisible="False"/>
+                <Label x:Name="label4" Grid.Row="14" Grid.Column="1" VerticalOptions="Center" IsVisible="False"/>
+                <Label x:Name="label5" Grid.Row="15" Grid.Column="1" VerticalOptions="Center" IsVisible="False"/>
+                <Label x:Name="label6" Grid.Row="16" Grid.Column="1" VerticalOptions="Center" IsVisible="False"/>
+                <Label x:Name="label7" Grid.Row="17" Grid.Column="1" VerticalOptions="Center" IsVisible="False"/>
+                <Label x:Name="label8" Grid.Row="18" Grid.Column="1" VerticalOptions="Center" IsVisible="False"/>
+                <Label x:Name="label9" Grid.Row="19" Grid.Column="1" VerticalOptions="Center" IsVisible="False"/>
+                <Label x:Name="label10" Grid.Row="20" Grid.Column="1" VerticalOptions="Center" IsVisible="False"/>
+                <Label x:Name="label11" Grid.Row="21" Grid.Column="1" VerticalOptions="Center" IsVisible="False"/>
+                <Label x:Name="label12" Grid.Row="22" Grid.Column="1" VerticalOptions="Center" IsVisible="False"/>
+                <Label x:Name="label13" Grid.Row="23" Grid.Column="1" VerticalOptions="Center" IsVisible="False"/>
+                <Label x:Name="label14" Grid.Row="24" Grid.Column="1" VerticalOptions="Center" IsVisible="False"/>
+                <Label x:Name="label15" Grid.Row="25" Grid.Column="1" VerticalOptions="Center" IsVisible="False"/>
+                <Label x:Name="label16" Grid.Row="26" Grid.Column="1" VerticalOptions="Center" IsVisible="False"/>
+                <Label x:Name="label17" Grid.Row="27" Grid.Column="1" VerticalOptions="Center" IsVisible="False"/>
+                <Button x:Name="showPlotButton" Grid.Row="28" Grid.Column="1" Text="Ver Gráfica" Clicked="ShowPlotButton_Clicked" IsVisible="False"/>
+            </Grid>
+        </ScrollView>
+    </Grid>
+</ContentPage>
